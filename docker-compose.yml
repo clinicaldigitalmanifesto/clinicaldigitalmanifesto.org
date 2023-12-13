@@ -1,0 +1,11 @@
+version: '3'
+services:
+  mkdocs:
+    build: .
+    volumes:
+      - .:/app
+    ports:
+      - 8000:8000
+    environment:
+      - VIRTUAL_HOST=clinicaldigitalmanifesto.org
+      - LETSENCRYPT_HOST=clinicaldigitalmanifesto.org

@@ -1,0 +1,18 @@
+site_name: Clinical Digital Manifesto
+theme:
+  name: 'material'
+  palette:
+    primary: 'grey'
+    accent: 'grey'
+  font:
+    text: 'Poppins'
+    code: 'Poppins'
+nav:
+  - Home: 'index.md'
+  - The problem statement: 'problem_statement.md'
+  - The 5 points of our manifesto: 'manifesto.md'
+  - Principles for working together as we achieve our aims: 'principles.md'
+  - Our roadmap: 'roadmap.md'
+  - Comms planning: 'comms_planning.md'
+  - Early concepts for making change: 'early_concepts.md'
+  - Notes and feedback: 'notes_feedback.md'
