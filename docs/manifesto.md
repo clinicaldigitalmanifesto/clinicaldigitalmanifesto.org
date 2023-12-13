@@ -1,4 +1,4 @@
-# The 5 points of our manifesto
+# The 5 Points of our Manifesto
 
 1. **We look to NHS care teams as our leaders of digital design**
 We need to change our culture and flip it from top-down tech to empowering clinical teams and putting them in the driving seat, as the people that will need to use a digital tool to care for patients. There are large opportunities to improve the experience and efficiency of NHS care, and we need to find better ways of putting clinical teams in the driving-seat and letting them experiment and adapt to find them.

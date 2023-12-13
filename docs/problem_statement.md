@@ -1,12 +1,12 @@
-# Problem statement
+# Problem Statement
 
 Clinicians across the NHS are faced with time-consuming digital workflows that often lead to frustration and wasted time. We believe that poor software is significantly contributing to the financial, patient flow, waiting list and workforce challenges faced by our NHS services.
 
-## Why we believe this
+## Why We Believe This
 
 The experience of clinicians who have worked in pre-digital and digital ages of healthcare delivery is that while some things have improved (eg. the ready availability of digital X-ray images), it now simply takes longer to action any given clinical task than it did with a paper form and a pen. The management decisions might be made within minutes of meeting the patient, but putting these into action can quickly explode into half an hour of wrestling with myriad EPRs, ‘portals’, PDFs, printed matter, and phone calls. There is no ancillary staff to assist with this workload so we waste the time of some of our most scarce members of staff doing tedious repetitive admin.
 
-## Why we are confident we can change this
+## Why We Are Confident We Can Change This
 
 We know from other areas of government such as Government Digital Services, that a different way of approaching digital can change this story. By keeping things simple, focusing on people's needs, solving whole problems and working with modern coding, deployment and computing approaches - it is realistic to dramatically improve people's digital experiences, improve productivity and performance, reduce wasteful spending, and support a better quality of service to meet citizen's raised expectations.
 
