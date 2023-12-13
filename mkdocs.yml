@@ -14,10 +14,10 @@ extra_css:
 
 nav:
   - Home: 'index.md'
-  - The problem statement: 'problem_statement.md'
-  - The 5 points of our manifesto: 'manifesto.md'
-  - Principles for working together as we achieve our aims: 'principles.md'
-  - Our roadmap: 'roadmap.md'
-  - Comms planning: 'comms_planning.md'
-  - Early concepts for making change: 'early_concepts.md'
-  - Notes and feedback: 'notes_feedback.md'
+  - The Problem Statement: 'problem_statement.md'
+  - The 5 points of our Manifesto: 'manifesto.md'
+  - Principles For Working Together To Achieve Our Aims: 'principles.md'
+  - Our Roadmap: 'roadmap.md'
+  - Comms Planning: 'comms_planning.md'
+  - Early Concepts for Making Change: 'early_concepts.md'
+  - Notes and Feedback: 'notes_feedback.md'
