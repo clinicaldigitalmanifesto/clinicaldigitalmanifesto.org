@@ -1,12 +1,17 @@
 site_name: Clinical Digital Manifesto
 theme:
   name: 'material'
+  features:
+    - navigation.footer
   palette:
     primary: 'grey'
     accent: 'grey'
   font:
     text: 'Poppins'
     code: 'Poppins'
+extra_css:
+  - stylesheets/extra.css
+
 nav:
   - Home: 'index.md'
   - The problem statement: 'problem_statement.md'
