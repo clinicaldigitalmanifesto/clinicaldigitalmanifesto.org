@@ -1,4 +1,6 @@
-# Problem Statement
+# Welcome to the Clinical Digital Manifesto
+
+## Problem Statement
 
 Clinicians across the NHS are faced with time-consuming digital workflows that often lead to frustration and wasted time. We believe that poor software is significantly contributing to the financial, patient flow, waiting list and workforce challenges faced by our NHS services.
 

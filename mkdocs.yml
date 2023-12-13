@@ -1,4 +1,6 @@
 site_name: Clinical Digital Manifesto
+
+
 theme:
   name: 'material'
   features:
@@ -12,12 +14,8 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+
 nav:
-  - Home: 'index.md'
-  - The Problem Statement: 'problem_statement.md'
+  - Welcome: 'welcome.md'
   - The 5 points of our Manifesto: 'manifesto.md'
   - Principles For Working Together To Achieve Our Aims: 'principles.md'
-  - Our Roadmap: 'roadmap.md'
-  - Comms Planning: 'comms_planning.md'
-  - Early Concepts for Making Change: 'early_concepts.md'
-  - Notes and Feedback: 'notes_feedback.md'
