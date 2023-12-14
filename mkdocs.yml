@@ -15,6 +15,7 @@ extra_css:
   - stylesheets/extra.css
 
 plugins:
+  - search
   - with-pdf:
       cover_title: Clinical Digital Manifesto
       cover_subtitle: Complete Documentation
@@ -34,3 +35,6 @@ nav:
   - The 5 points of our Manifesto: 'manifesto.md'
   - Principles For Working Together To Achieve Our Aims: 'principles.md'
   - Download our Manifesto: 'download.md'
+
+repo_url: https://github.com/clinicaldigitalmanifesto/clinicaldigitalmanifesto.org
+repo_name: clinicaldigitalmanifesto/clinicaldigitalmanifesto.org
