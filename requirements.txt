@@ -2,11 +2,9 @@ mkdocs
 mkdocs-material
 
 # for the feature which displays authors at the bottom of the page
-# STILL NEEDS SETUP
 mkdocs-git-committers-plugin-2
 
 # for the feature which displays last edit date at the bottom of the page
-# STILL NEEDS SETUP
 mkdocs-git-revision-date-localized-plugin
 
 mkdocs-macros-plugin

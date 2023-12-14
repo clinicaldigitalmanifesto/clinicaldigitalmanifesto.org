@@ -20,6 +20,12 @@ plugins:
       cover_subtitle: Complete Documentation
       toc_title: Table Of Contents
       output_path: download/pdf/clinical-digital-manifesto.pdf
+  - git-committers:
+      repository: clinicaldigitalmanifesto/clinicaldigitalmanifesto.org
+      branch: live
+      enabled: !ENV [ENABLE_GIT_COMMITTERS, true] # makes Git Committers optional
+  - git-revision-date-localized:
+      enable_creation_date: true
 
 
 
