@@ -32,8 +32,8 @@ plugins:
 
 nav:
   - Welcome: 'welcome.md'
-  - The 5 points of our Manifesto: 'manifesto.md'
-  - Principles For Working Together To Achieve Our Aims: 'principles.md'
+  - The 5 Points of our Manifesto: 'manifesto.md'
+  - Principles for Working Together To Achieve Our Aims: 'principles.md'
   - Download our Manifesto: 'download.md'
 
 repo_url: https://github.com/clinicaldigitalmanifesto/clinicaldigitalmanifesto.org
