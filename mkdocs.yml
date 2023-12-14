@@ -11,11 +11,21 @@ theme:
   font:
     text: 'Poppins'
     code: 'Poppins'
+  custom_dir: docs/overrides
 extra_css:
   - stylesheets/extra.css
+
+plugins:
+  - with-pdf:
+      cover_title: Clinical Digital Manifesto
+      cover_subtitle: Complete Documentation
+      toc_title: Table Of Contents
+      output_path: download/pdf/clinical-digital-manifesto.pdf
+
 
 
 nav:
   - Welcome: 'welcome.md'
   - The 5 points of our Manifesto: 'manifesto.md'
   - Principles For Working Together To Achieve Our Aims: 'principles.md'
+  - Download our Manifesto: 'download.md'
