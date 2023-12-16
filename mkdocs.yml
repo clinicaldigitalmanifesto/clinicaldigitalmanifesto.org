@@ -31,7 +31,7 @@ plugins:
 
 
 nav:
-  - Welcome: 'welcome.md'
+  - Welcome: 'index.md'
   - The 5 Points of our Manifesto: 'manifesto.md'
   - Principles for Working Together To Achieve Our Aims: 'principles.md'
   - Download our Manifesto: 'download.md'
