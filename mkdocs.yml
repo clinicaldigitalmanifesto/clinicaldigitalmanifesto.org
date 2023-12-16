@@ -28,12 +28,11 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
 
-
-
 nav:
   - Welcome: 'index.md'
   - The 5 Points of our Manifesto: 'manifesto.md'
   - Principles for Working Together To Achieve Our Aims: 'principles.md'
+  - Survey: 'survey.md'
   - Download our Manifesto: 'download.md'
 
 repo_url: https://github.com/clinicaldigitalmanifesto/clinicaldigitalmanifesto.org
