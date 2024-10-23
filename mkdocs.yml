@@ -16,11 +16,6 @@ extra_css:
 
 plugins:
   - search
-  - with-pdf:
-      cover_title: Clinical Digital Manifesto
-      cover_subtitle: Complete Documentation
-      toc_title: Table Of Contents
-      output_path: download/pdf/clinical-digital-manifesto.pdf
   - git-committers:
       repository: clinicaldigitalmanifesto/clinicaldigitalmanifesto.org
       branch: live
@@ -33,7 +28,6 @@ nav:
   - The 5 Points of our Manifesto: 'manifesto.md'
   - Principles for Working Together To Achieve Our Aims: 'principles.md'
   - Survey: 'survey.md'
-  - Download our Manifesto: 'download.md'
 
 repo_url: https://github.com/clinicaldigitalmanifesto/clinicaldigitalmanifesto.org
 repo_name: clinicaldigitalmanifesto/clinicaldigitalmanifesto.org
