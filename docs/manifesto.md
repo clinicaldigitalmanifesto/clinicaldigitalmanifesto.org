@@ -2,11 +2,13 @@
 
 ## 1. We look to NHS care teams as our leaders of digital design
 
-We need to change our culture and flip it from top-down tech to empowering clinical teams and putting them in the driving seat, as the people that will need to use a digital tool to care for patients. There are large opportunities to improve the experience and efficiency of NHS care, and we need to find better ways of putting clinical teams in the driving-seat and letting them experiment and adapt to find them.
+We need to change our culture and flip it from top-down tech to empowering full care teams and putting them in the driving seat, as the people that will need to use a digital tool to care for patients. There are large opportunities to improve the experience and efficiency of NHS care, and we need to find better ways of providing care teams with the space, time and skills to explore and adapt to find them.
+
+Where this means changing the way we contract, manage, or work with our IT suppliers, we do so. Where this means opening up our products and solutions to respond to the designs and working patterns of care teams, we do so. Where this means contributing to changes in national architectures, international standards and at-scale approaches to digital delivery, we do so.
 
 ## 2. We listen to feedback
 
-NHS staff should be able to feed back easily, honestly and openly about any IT system they use to care for patients, confident that this will be collected, shared, interpreted and acted on. Solutions and iterations should involve the people using them at all stages to achieve a quality digital experience. Like central government mandates the sharing of user-feedback data.
+NHS staff should be able to feed back easily, honestly and openly about any IT system they use to care for patients, confident that this will be collected, shared, interpreted and acted on. Solutions and iterations should involve the people using them at all stages to achieve a quality digital experience. Like central government mandates the sharing of user-feedback data. Not all requests or problems will be able to be solved, or resolved quickly, but its vital we hear them and their importance in the first place.
 
 ## 3. We achieve a user experience with every digital solution that NHS clinicians can work with
 
@@ -18,5 +20,4 @@ Open source and modular components have reduced the cost and complexity of build
 
 ## 5. We shift control from Big IT to NHS care teams
 
-We will support the NHS to develop common contract clauses and standard mechanisms to shift the power from large and sometimes unresponsive big IT suppliers, and empower clinical care teams in their place. Across pharma, medical devices and clinical services, the NHS has used collective bargaining effectively to secure good deals and responsive market provision - and we can do it for digital too.
-Some requirements are best built as APIs or common modular solutions which everyone can use irrespective of their chosen systems - for example electronic Fit Notes or GOV.UK style functionality. Intellectual property should always remain fully owned by the NHS.
+The skill-sets, ways of working, and team capabilities to work with technologies have improved over recent years, but are still a way off where they need to be. Our group and forum will work to understand where digital teams can be strengthened both in terms of discrete skills that are under-represented such as design, product management and front-end development - as well as ways of working across digital teams that NHS peers can learn from. We will collectively work to share good practices, develop each other as a community of digitally-focused NHS staff, and engage with national decision-makers around the evolution of digital skills and ways of working across the NHS.
